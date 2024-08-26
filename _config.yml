@@ -3,7 +3,7 @@ title: Hualin Blog
 SEOTitle: 桦林新闻 | Hualin Blog
 header-img: img/post-bg-desk.jpg
 email: win10btwin11j@outlook.com
-description: "最权威，最即时的的桦林服务器新闻"
+description: "桦林新闻"
 keyword: "MC, Hualin, 桦林服务器, Blog"
 url: "http://hualinnet.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
@@ -11,8 +11,8 @@ github_repo: "https://github.com/hualinnet/hualinnet.github.io.git" # you code r
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "最权威，最即时的的桦林服务器新闻"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "提供最权威，最即时的的桦林服务器新闻和"
+sidebar-avatar: /img/Screenshot_20240826_123515_com.tencent.mobileqq.png      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
