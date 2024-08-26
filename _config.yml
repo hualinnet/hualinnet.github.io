@@ -6,12 +6,12 @@ email: win10btwin11j@outlook.com
 description: "最权威，最即时的的桦林服务器新闻"
 keyword: "MC, Hualin, 桦林服务器, Blog"
 url: "http://hualinnet.github.io"          # your host, for absolute URL
-baseurl: "/hualinnews"      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
+baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
+github_repo: "https://github.com/hualinnet/hualinnet.github.io.git" # you code repository
 
 # Sidebar settings
-sidebar: false                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
+sidebar: true                           # whether or not using Sidebar.
+sidebar-about-description: "最权威，最即时的的桦林服务器新闻"
 sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
@@ -85,8 +85,8 @@ gitalk:
 
 
 # Featured Tags
-featured-tags: false                     # 是否使用首页标签
-featured-condition-size: 1              # 相同标签数量大于这个数，才会出现在首页
+featured-tags: true                     # 是否使用首页标签
+featured-condition-size: 0              # 相同标签数量大于这个数，才会出现在首页
 
 
 
